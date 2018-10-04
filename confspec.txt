@@ -1,6 +1,8 @@
 Projekt neve: Római szám átváltó
 
 1. Áttekintés
+	Beírtam egy sort.
+
 
 2. Jelenelegi helyzet
 
