@@ -4,6 +4,8 @@ Projekt neve: Római szám átváltó
 
 2. Jelenelegi helyzet
 
+Mindjárt vége.
+
 3. Funkcionális követelmények
 
 4. Technikai követelmények
