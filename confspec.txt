@@ -1,7 +1,7 @@
 Projekt neve: Római szám átváltó
 
 1. Áttekintés
-
+- arab számokról római számokra
 2. Jelenelegi helyzet
 
 3. Funkcionális követelmények

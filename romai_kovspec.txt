@@ -1,0 +1,8 @@
+Római számok - tizes számrendszer
+
+Követelmény specifikáció
+
+Jelenlegi helyzet:
+Követelménylista: Be lehessen kérni bármilyen pozitív egész számot
+Irányított és szabad szöveges riportok szövege:
+Fogalomszótár:

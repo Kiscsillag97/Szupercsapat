@@ -1,0 +1,13 @@
+Római számok - tizes számrendszer
+
+Rendszerterv
+
+Rendszer: Egy program, mely tizes számrendszerbeli számokat római számmá alakít
+Rendszer célja: 
+Terv:
+Idõpont:
+Erõforrások:
+
+követelmény sp (megrendelõ)
+funkcionális sp (válasz)
+rendszerterv 
