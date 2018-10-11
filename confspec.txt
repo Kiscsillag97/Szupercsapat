@@ -11,3 +11,5 @@ Mindjárt vége.
 3. Funkcionális követelmények
 
 4. Technikai követelmények
+
+Ha ezt látod, akkor sikerült.
