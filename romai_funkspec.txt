@@ -3,7 +3,7 @@ Római számok - tizes számrendszer
 Funkcionális specifikációk
 
 A rendszer célja és nem célja:
-Jelenlegi helyzet:
+Jelenlegi helyzet: kilátástalan
 Követelménylista:
 Megfeleltetés, hogyan fedik le a használati esetek a követelményeket:
 Képernyõ tervek:
