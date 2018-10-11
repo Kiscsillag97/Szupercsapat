@@ -1,9 +1,19 @@
 Projekt neve: Római szám átváltó
 
 1. Áttekintés
+<<<<<<< HEAD
 - arab számokról római számokra
+=======
+	Beírtam egy sort.
+
+
+>>>>>>> 564b54042ec8d6b1eda3c37d7284b2f27e6c94f1
 2. Jelenelegi helyzet
+
+Mindjárt vége.
 
 3. Funkcionális követelmények
 
 4. Technikai követelmények
+
+Ha ezt látod, akkor sikerült.
